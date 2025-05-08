@@ -1,0 +1,15 @@
+{
+  "name": "juego-tiro-parabolico",
+  "version": "1.0.0",
+  "main": "main.js", 
+  "scripts": {
+    "start": "electron .", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TuNombre",
+  "license": "ISC",
+  "description": "Juego de tiro parabólico con Electron.js",
+  "dependencies": {
+    "electron": "^28.0.0" 
+  }
+}
